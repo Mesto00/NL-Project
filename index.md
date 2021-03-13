@@ -1,6 +1,5 @@
 [Historique](./Historique.html)         [Techniques du NLP](./Techniques_du_NLP.html)      [Domaines d'application du NLP](./Domaines_Application_NLP.html)     [Methodes du NLP](./Methodes_NLP.html)
 
-[![Build Status](./)](./)
 
 Bienvenue ! Voici ma synthèse de veille sur le traitement automatique du langage naturel (Natural language processing en anglais) NLP, réalisée dans le cadre du MOS 4.4 "Nouvelles Technologies de l’Information et de la Communication" à l’École Centrale de Lyon -*Salaheddine Mesdar*
 
