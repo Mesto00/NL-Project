@@ -1,3 +1,3 @@
 <h1>Hello, World</h1>
-[page1](./page1.md).
+[page1](./page1.html).
 
