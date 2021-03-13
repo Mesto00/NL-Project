@@ -1,6 +1,6 @@
-# Here you find some NLP techniques
- 
 [Home](./)        [Historique](./Historique.html)  [Domaines d'application du NLP](./Domaines_Application_NLP.html)    [Methodes du NLP](./Methodes_NLP.html)
+
+# Techniques du NLP
 
 # Analyse lexicale : 
 L'analyse lexicale est souvent le point d'entrée de nombreux pipelines de données NLP, elle repose sur la compréhension de la signification des mots, leur contexte et d’essayer d’obtenir la relation d'un mot avec d'autres. Ce type d'analyse peut prendre de nombreuses formes et variétés. Elle peut être utilisée comme la première étape du processus d'un compilateur en décomposant les lignes de code en une série de "tokens" d’un fichier de code source, et en supprimant tout espace blanc ou commentaire. Dans d'autres types d'application de cette analyse, elle peut conserver plusieurs mots ensemble sous la forme d'une séquence d'éléments (n-gramme). 
