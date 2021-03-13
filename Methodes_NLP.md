@@ -1,7 +1,6 @@
-## Méthodes du NLP
-
-
 [Home](./)          [Historique](./Historique.html)          [Techniques du NLP](./Techniques_du_NLP.html)      [Domaines d'application du NLP](./Domaines_Application_NLP.html)
+# Méthodes du NLP
+
 
 # Phase de prétraitement de texte
 Les données collectées sont souvent incohérentes, incomplètes et contenant généralement beaucoup de bruit est susceptibles d’avoir des erreurs. Par conséquent, comme dans les autres domaines de la science des données, la première étape est l’étape du nettoyage et la préparation du texte brute pour le transformer en un format compréhensible. On note text = "This IS an Introduction To NLP. Tell Me how do you find it? I Hope you found it amazing and interesting."
