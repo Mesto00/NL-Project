@@ -1,4 +1,4 @@
 # Hello world
 
-[page1](./page1.html).
+[page1](./page1.html).   [page2](./page2.html)
 
