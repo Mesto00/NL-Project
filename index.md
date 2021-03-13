@@ -1,4 +1,4 @@
 # Hello world
 
-[page1](./page1.html).   [page2](./page2.html)
+[Historique](./Historique.html).   [Techniques du NLP](./Techniques_du_NLP.html)
 
