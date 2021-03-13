@@ -1,5 +1,5 @@
 <h1>Hi it's Historique</h1>
 ## Hi
 
-[Techniques du NLP](./Techniques_du_NLP.html).
+[Home](./)        [Techniques du NLP](./Techniques_du_NLP.html)
 
