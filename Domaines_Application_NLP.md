@@ -1,5 +1,7 @@
-# Vous trouverez ici les Domaines d'application du NLP
 [Home](./)     [Historique](./Historique.html)          [Techniques du NLP](./Techniques_du_NLP.html)        [Methodes du NLP](./Methodes_NLP.html) 
+
+
+# Domaines d'application du NLP
 
 On l’ignore peut-être, mais de nombreuses applications qu’on utilise au quotidien reposent sur le traitement du langage naturel (NLP). On cite : 
 - L’extraction d’information ou la recherche d’information (par exemple avec les moteurs de recherche Google, Inbenta etc.) 
