@@ -1,4 +1,4 @@
 # Hello world
 
-[Link to another page](./page1.html).
+[page1](./page1.html).
 
