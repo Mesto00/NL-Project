@@ -1,3 +1,4 @@
-<h1>Hello, World</h1>
-[page1](./page1.html).
+# Hello world
+
+[Link to another page](./page1.html).
 
